@@ -1,0 +1,23 @@
+{
+  "info": {
+    "os_type": "Windows",
+    "os_release": "11",
+    "os_version": "10.0.22621",
+    "machine": "AMD64",
+    "processor": "Intel64 Family 6 Model 154 Stepping 3, GenuineIntel",
+    "architecture": [
+      "64bit",
+      "WindowsPE"
+    ],
+    "cpu_cores": 20,
+    "hostname": "KOMPUTER",
+    "system": "Windows",
+    "python_version": "3.12.6",
+    "implementation": "CPython",
+    "compiler": "MSC v.1940 64 bit (AMD64)",
+    "build": [
+      "tags/v3.12.6:a4a2d2b",
+      "Sep  6 2024 20:11:23"
+    ]
+  }
+}
